@@ -868,6 +868,7 @@ print(values)
 students={"arun":90,"varun":97,"tarun":100}
 for i in students.values():
      print(i)
+  
      print(max[i])
     
 
